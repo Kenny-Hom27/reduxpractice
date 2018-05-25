@@ -1,8 +1,8 @@
 export default function() {
   return [
-    {title: "Javascript"},
-    {title: "Ruby"},
-    {title: "Harry Potter"},
-    {title: "React"},
+    {title: "Javascript", pages: 34},
+    {title: "Ruby", pages: 92},
+    {title: "Harry Potter", pages: 114},
+    {title: "React", pages: 65},
   ]
 }
